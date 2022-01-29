@@ -10,3 +10,6 @@
 [submodule "Keebio-Parts.pretty"]
 	path = Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "keyswitch-kicad-library"]
+	path = keyswitch-kicad-library
+	url = https://github.com/perigoso/keyswitch-kicad-library

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+  (lib (name keyswitch-kicad-library)(type KiCad)(uri ${KIPRJMOD}/keyswitch-kicad-library)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Hotswap_Kailh)(type KiCad)(uri ${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty)(options "")(descr ""))
+)

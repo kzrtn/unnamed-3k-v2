@@ -1,0 +1,34 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C3,14pF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,~
+2,"Unpolarized capacitor, small symbol",C_Small,C4 C5 C7 C8 C9 C10 C11,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,7,~
+3,"Unpolarized capacitor, small symbol",C_Small,C1,1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,~
+4,"Unpolarized capacitor, small symbol",C_Small,C6,10uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,~
+5,RGB LED with integrated controller,SK6812MINI,D1 D2 D3,SK6812MINI,SK6812-MINI-E,3,https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+6,RGB LED with integrated controller,WS2812B,D4 D5,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,2,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+7,"Resettable fuse, polymeric positive temperature coefficient, small symbol",Polyfuse_Small,F1,Polyfuse_Small,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,~
+8,,MX-NoLED,MX1 MX2 MX3,MX-NoLED,MXOnly-1U-Hotswap,3,
+9,"Resistor, small symbol",R_Small,R1 R2,22,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,~
+10,"Resistor, small symbol",R_Small,R5 R6,5.1k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,2,~
+11,"Resistor, small symbol",R_Small,R3,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,~
+12,"Resistor, small symbol",R_Small,R4,R_Small,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,~
+13,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SKQGADE010,1,~
+14,"16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, TQFP-32",ATmega32U2-AU,U1,ATmega32U2-AU,TQFP-32_7x7mm_P0.8mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf
+15,,PRTR5V0U2X,U2,PRTR5V0U2X,SOT143B,1,
+16,,HRO-TYPE-C-31-M-12,USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-HandSoldering,1,
+17,"Four pin crystal, GND on pins 2 and 4, small symbol",Crystal_GND24_Small,Y1,Crystal_GND24_Small,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,1,~
+
+
+
+
+
+Component Groups:,17
+Component Count:,31
+Fitted Components:,31
+Number of PCBs:,1
+Total components:,31
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,02/01/22 04:11:05
+Schematic Source:,unnamed-3k-v2.sch
+KiCad Version:,Eeschema (5.1.4)-1

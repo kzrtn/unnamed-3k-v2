@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:unnamed-3k-v2-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -29,7 +30,7 @@ L Device:R_Small R4
 U 1 1 61F5A21C
 P 4050 3700
 F 0 "R4" V 3854 3700 50  0000 C CNN
-F 1 "R_Small" V 3945 3700 50  0000 C CNN
+F 1 "10k" V 3945 3700 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4050 3700 50  0001 C CNN
 F 3 "~" H 4050 3700 50  0001 C CNN
 	1    4050 3700
@@ -991,11 +992,11 @@ Connection ~ 8800 3200
 Connection ~ 8800 3050
 Wire Wire Line
 	8800 3050 10050 3050
-Text GLabel 3750 1900 2    50   Input ~ 0
+Text GLabel 3750 1800 2    50   Input ~ 0
 UNDERGLOWLED
 Text GLabel 3750 2000 2    50   Input ~ 0
 SWITCHLED
-Text GLabel 3750 1800 2    50   Input ~ 0
+Text GLabel 3750 1900 2    50   Input ~ 0
 COL0
 Text GLabel 3750 2100 2    50   Input ~ 0
 COL1

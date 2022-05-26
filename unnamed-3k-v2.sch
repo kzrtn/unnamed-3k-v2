@@ -15,17 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega32U2-AU U1
-U 1 1 61F586D1
-P 3050 2600
-F 0 "U1" H 3050 1111 50  0000 C CNN
-F 1 "ATmega32U2-AU" H 3050 1020 50  0000 C CNN
-F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 3050 2600 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf" H 3050 2600 50  0001 C CNN
-	1    3050 2600
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R_Small R4
 U 1 1 61F5A21C
 P 4050 3700
@@ -63,12 +52,7 @@ F 3 "" H 2600 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3050 4000 2950 4000
-Wire Wire Line
 	2600 4000 2600 4050
-Connection ~ 2950 4000
-Wire Wire Line
-	2950 4000 2600 4000
 $Comp
 L power:+5V #PWR0103
 U 1 1 61F5D420
@@ -126,8 +110,6 @@ F 3 "~" H 2150 2550 50  0001 C CNN
 	1    2150 2550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2350 2400 2150 2400
 Wire Wire Line
 	2150 2400 2150 2450
 $Comp
@@ -1002,4 +984,22 @@ Text GLabel 3750 2100 2    50   Input ~ 0
 COL1
 Text GLabel 3750 2200 2    50   Input ~ 0
 COL2
+Connection ~ 2950 4000
+Wire Wire Line
+	2950 4000 2600 4000
+Wire Wire Line
+	3050 4000 2950 4000
+Wire Wire Line
+	2350 2400 2150 2400
+$Comp
+L MCU_Microchip_ATmega:ATmega32U2-AU U1
+U 1 1 61F586D1
+P 3050 2600
+F 0 "U1" H 3050 1111 50  0000 C CNN
+F 1 "ATmega32U2-AU" H 3050 1020 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 3050 2600 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf" H 3050 2600 50  0001 C CNN
+	1    3050 2600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

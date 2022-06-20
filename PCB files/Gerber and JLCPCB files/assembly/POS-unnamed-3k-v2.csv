@@ -1,0 +1,26 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,97.371784,-100.240216,45.0,bottom
+C2,14pF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,105.372784,-111.214784,135.0,bottom
+C3,14pF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,98.335216,-117.893216,-45.0,bottom
+C4,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,91.604216,-119.215784,-135.0,bottom
+C5,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,103.669216,-106.515784,45.0,bottom
+C6,10uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,101.591,-76.073,180.0,bottom
+C10,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,113.538,-97.4,90.0,bottom
+C11,0.1uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,72.517,-98.543001,90.0,bottom
+D4,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,77.597,-97.917,0.0,bottom
+D5,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,108.585,-97.917,0.0,bottom
+F1,Polyfuse_Small,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,101.2555,-72.644,180.0,bottom
+MX1,MX-NoLED,MXOnly-1U-Hotswap,112.172,-87.63,0.0,top
+MX2,MX-NoLED,MXOnly-1U-Hotswap,93.121,-87.63,0.0,top
+MX3,MX-NoLED,MXOnly-1U-Hotswap,74.072,-87.64,0.0,top
+R1,22,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,101.637216,-103.721784,45.0,bottom
+R2,22,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,100.113216,-102.197784,45.0,bottom
+R3,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,79.121,-109.465001,-90.0,bottom
+R4,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,87.540216,-115.734216,135.0,bottom
+R5,5.1k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,89.408,-72.145,90.0,bottom
+R6,5.1k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,96.647,-72.272,90.0,bottom
+SW1,SW_Push,SKQGADE010,73.227,-110.308,180.0,bottom
+U1,ATmega32U2-AU,TQFP-32_7x7mm_P0.8mm,93.252555,-109.193565,135.0,bottom
+U2,PRTR5V0U2X,SOT143B,93.091,-72.009,0.0,bottom
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-HandSoldering,93.121,-58.989,0.0,bottom
+Y1,Crystal_GND24_Small,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,101.775248,-114.687777,-135.0,bottom

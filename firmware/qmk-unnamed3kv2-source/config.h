@@ -22,7 +22,7 @@
 
 /* direct pins */
 #define DIRECT_PINS { \
-    { B4, B6, B7} \
+    { B7, C7, C6} \
 }
 
 #define RGB_DI_PIN B3

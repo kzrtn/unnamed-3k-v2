@@ -1,0 +1,13 @@
+{
+    "name":"unnamed3kv2",
+    "vendorId":"0x4B55",
+    "productId":"0x0000",
+    "lighting":"qmk_rgblight",
+    "matrix":{"rows":1, "cols":3},
+    "layouts":{
+       "labels":[],
+       "keymap":[
+        ["0,0", "0,1","0,2"]
+      ]
+    }
+ }
